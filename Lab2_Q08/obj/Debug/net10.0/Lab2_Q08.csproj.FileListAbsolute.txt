@@ -1,0 +1,15 @@
+/home/nischal/Desktop/C# programs/Lab2_Q08/bin/Debug/net10.0/Lab2_Q08
+/home/nischal/Desktop/C# programs/Lab2_Q08/bin/Debug/net10.0/Lab2_Q08.deps.json
+/home/nischal/Desktop/C# programs/Lab2_Q08/bin/Debug/net10.0/Lab2_Q08.runtimeconfig.json
+/home/nischal/Desktop/C# programs/Lab2_Q08/bin/Debug/net10.0/Lab2_Q08.dll
+/home/nischal/Desktop/C# programs/Lab2_Q08/bin/Debug/net10.0/Lab2_Q08.pdb
+/home/nischal/Desktop/C# programs/Lab2_Q08/obj/Debug/net10.0/Lab2_Q08.GeneratedMSBuildEditorConfig.editorconfig
+/home/nischal/Desktop/C# programs/Lab2_Q08/obj/Debug/net10.0/Lab2_Q08.AssemblyInfoInputs.cache
+/home/nischal/Desktop/C# programs/Lab2_Q08/obj/Debug/net10.0/Lab2_Q08.AssemblyInfo.cs
+/home/nischal/Desktop/C# programs/Lab2_Q08/obj/Debug/net10.0/Lab2_Q08.csproj.CoreCompileInputs.cache
+/home/nischal/Desktop/C# programs/Lab2_Q08/obj/Debug/net10.0/Lab2_Q08.sourcelink.json
+/home/nischal/Desktop/C# programs/Lab2_Q08/obj/Debug/net10.0/Lab2_Q08.dll
+/home/nischal/Desktop/C# programs/Lab2_Q08/obj/Debug/net10.0/refint/Lab2_Q08.dll
+/home/nischal/Desktop/C# programs/Lab2_Q08/obj/Debug/net10.0/Lab2_Q08.pdb
+/home/nischal/Desktop/C# programs/Lab2_Q08/obj/Debug/net10.0/Lab2_Q08.genruntimeconfig.cache
+/home/nischal/Desktop/C# programs/Lab2_Q08/obj/Debug/net10.0/ref/Lab2_Q08.dll
